@@ -31,7 +31,7 @@ Dependancies:
 How to use:
 
 1. Just put you twitter keys in keys.py
-2. Add/edit talk.txt with what you wabt it to say
+2. Add/edit talk.txt with what you want it to say
 3. Run: sudo python robopanda.py talk.txt
 
 ----------------------------------------------------------------------------------------
