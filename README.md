@@ -28,6 +28,13 @@ Dependancies:
 - All the DOT3k required dependancies 
 
 -----------------------------------------------------------------------------------------
+How to use:
+
+1. Just put you twitter keys in keys.py
+2. Add/edit talk.txt with what you wabt it to say
+3. Run: sudo python robopanda.py talk.txt
+
+----------------------------------------------------------------------------------------
 You can find me on twitter @dorkfeastteam 
 ** This is still a project in the works!!**
 ** Please excuse my horrible scripting, i'm new at this... lol ** 
