@@ -10,11 +10,6 @@ Current features:
 - Lists and numbers the tweets in terminal.
 - Teminal display and LCD display for headless operation.
 
-Upcoming features?:
-- Joystick functions - perhaps a full menu of options?
-- Sweeping background animations both colors and characters?
-- Display and @mentions to the bot on the LCD screen with automated replies?
-- more cool stuff!? 
 ---------------------------------------------------------------------------------
 
 Known bugs:
