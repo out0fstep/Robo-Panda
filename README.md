@@ -1,7 +1,8 @@
-# Robo-Panda v1.0
-<p align="center">
--=⟦ Rasberry Pi based Twitter bot that utilizes the Pimoroni Displayotron 3000 Pi Hat ⟧=-
+# 🤖🐼 Robo-Panda v1.0  
 
+<div align="center">
+
+-=⟦ Raspberry Pi–based Twitter bot using the Pimoroni Displayotron 3000 Pi Hat ⟧=-
 
 -=[ **Created by** · [out0fstep](https://github.com/out0fstep) ]=-  
 
@@ -11,41 +12,38 @@
 [![Follow @DorkfeastTeam](https://img.shields.io/badge/follow-@DorkfeastTeam-1DA1F2?logo=x&logoColor=white)](https://x.com/DorkfeastTeam)
 
 **Ḥą̥̥̍c̷̙̆k̘̝̰̭ T̻ȟ̔̓̀e̛̪̒̌ P̡̢̼̂l̟̑̀a̭n̨̹̖̆e̯̍ṯ̎̕!̶̐̒**
-</p>
-</div>
- 
-----------------------------------------------------------------------------------
-**Current features:**
-- Scans for new followers and follows them back.
-- Checks for any unfollowers and unfollows them. 
-- Displays updated follower count.
-- Tweets every 2 hours line by line from txt file.
-- Lists and numbers the tweets in terminal.
-- Teminal display and LCD display for headless operation.
 
----------------------------------------------------------------------------------
+</div>  
 
-Known bugs:
-- When the script runs out of things to say in the list it will crash.
-- If you start and stop the script so it tried to post a dupe tweet, it will error. 
-  (just alter the talk.txt so the next line is not a repeated tweet for workaround.) 
+---
 
---------------------------------------------------------------------------------------
-Dependancies:
-- Tweepy
-- All the DOT3k required dependancies 
+## 🚀 Current Features
+- ✅ Scans for new followers and follows them back  
+- ✅ Detects unfollowers and unfollows them  
+- ✅ Displays updated follower count  
+- ✅ Tweets every 2 hours (line by line from `talk.txt`)  
+- ✅ Lists and numbers tweets in the terminal  
+- ✅ Works with both terminal & LCD for headless operation  
 
------------------------------------------------------------------------------------------
-How to use:
+---
 
-1. Just put you twitter keys in keys.py
-2. Add/edit talk.txt with what you want it to say
-3. Run: sudo python robopanda.py talk.txt
+## 🐞 Known Bugs
+- ❌ Script will **crash** when it runs out of lines in `talk.txt`  
+- ❌ If restarted and a duplicate tweet is attempted, it will error  
+  - **Workaround:** edit `talk.txt` so the next line is unique  
 
-----------------------------------------------------------------------------------------
-You can find me on twitter @dorkfeastteam 
-** This is still a project in the works!!**
-** Please excuse my horrible scripting, i'm new at this... lol ** 
+---
 
+## 📦 Dependencies
+- [Tweepy](https://www.tweepy.org/)  
+- Pimoroni DOT3k libraries & dependencies  
 
+---
 
+## 🛠️ How to Use
+1. Add your Twitter API keys in `keys.py`  
+2. Edit `talk.txt` with the lines you want Robo-Panda to tweet  
+3. Run the bot:  
+
+   ```bash
+   sudo python robopanda.py talk.txt
