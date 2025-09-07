@@ -1,7 +1,5 @@
-# 🤖🐼 Robo-Panda v1.0  
-
 <div align="center">
-
+🤖🐼 Robo-Panda v1.0  
 -=⟦ Raspberry Pi–based Twitter bot using the Pimoroni Displayotron 3000 Pi Hat ⟧=-
 
 -=[ **Created by** · [out0fstep](https://github.com/out0fstep) ]=-  
