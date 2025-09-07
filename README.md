@@ -13,7 +13,7 @@ Current features:
 ---------------------------------------------------------------------------------
 
 Known bugs:
-- When the scripyt runs out of things to say in the list it will crash.
+- When the script runs out of things to say in the list it will crash.
 - If you start and stop the script so it tried to post a dupe tweet, it will error. 
   (just alter the talk.txt so the next line is not a repeated tweet for workaround.) 
 
