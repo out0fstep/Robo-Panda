@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Current Features
+## 🚀 Features
 - ✅ Scans for new followers and follows them back  
 - ✅ Detects unfollowers and unfollows them  
 - ✅ Displays updated follower count  
