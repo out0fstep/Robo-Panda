@@ -1,7 +1,7 @@
 # Robo-Panda v1.0
 <p align="center">
 -=⟦ Rasberry Pi based Twitter bot that utilizes the Pimoroni Displayotron 3000 Pi Hat ⟧=-
-</p>
+
 
 -=[ **Created by** · [out0fstep](https://github.com/out0fstep) ]=-  
 
@@ -11,7 +11,7 @@
 [![Follow @DorkfeastTeam](https://img.shields.io/badge/follow-@DorkfeastTeam-1DA1F2?logo=x&logoColor=white)](https://x.com/DorkfeastTeam)
 
 **Ḥą̥̥̍c̷̙̆k̘̝̰̭ T̻ȟ̔̓̀e̛̪̒̌ P̡̢̼̂l̟̑̀a̭n̨̹̖̆e̯̍ṯ̎̕!̶̐̒**
-
+</p>
 </div>
  
 ----------------------------------------------------------------------------------
